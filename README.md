@@ -1,5 +1,3 @@
-![Header Image](./assets/header.png)
-
 ## Olá 👋
 
-### I'm creating art. What about you?
+I'm creating art through mathematics and code.
